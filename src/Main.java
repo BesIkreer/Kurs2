@@ -24,5 +24,6 @@ public class Main {
     ron.compareGryffindor(germiona);
     padma.print();
     grehem.compareSlytherin(gregory);
+    markus.print();
     }
 }
