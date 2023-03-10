@@ -23,5 +23,6 @@ public class Main {
     harry.compareHogwarts(drago);
     ron.compareGryffindor(germiona);
     padma.print();
+    grehem.compareSlytherin(gregory);
     }
 }
