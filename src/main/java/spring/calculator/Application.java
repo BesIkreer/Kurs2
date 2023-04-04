@@ -1,4 +1,4 @@
-package pro.sky.spring.calculator;
+package spring.calculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
